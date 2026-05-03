@@ -7,7 +7,7 @@ The model estimates:
 * Heating Load (Y1)
 * Cooling Load (Y2)
 
-based on architectural design features.
+ based on architectural design features.
 
 ---
 
