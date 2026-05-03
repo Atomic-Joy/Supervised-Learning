@@ -1,7 +1,5 @@
 # 🏠 Energy Efficiency Prediction — Portfolio Project
 
-## 🚀 Project Summary
-
 Built a **machine learning regression system** to predict building energy efficiency using the **Energy Efficiency Dataset**. This approach is used because the target variables, heating and cooling loads, are continuous numerical values, making regression models suitable for capturing relationships between building features and energy consumption. By training on historical data, the model learns patterns that help estimate energy requirements for new building designs, enabling better planning and optimization of energy efficiency.
 
 The model estimates:
@@ -13,13 +11,13 @@ based on architectural design features.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To analyze how structural parameters of buildings impact energy consumption and develop a predictive model to optimize energy efficiency.
 
 ---
 
-## 🧠 Approach
+##  Approach
 
 ### 🔹 Data Analysis
 
@@ -50,7 +48,7 @@ Used:
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 * Achieved **R² score up to ~0.95+** using ensemble models
 * Tree-based (Random Forest, Gradient Boosting) models significantly outperformed linear regression
@@ -58,7 +56,7 @@ Used:
 
 ---
 
-## 📈 Visual Insights
+##  Visual Insights
 
 * Strong correlation between building geometry and energy load
 * Residual analysis confirmed low bias and stable predictions
@@ -66,7 +64,7 @@ Used:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -75,7 +73,7 @@ Used:
 
 ---
 
-## 💡 Impact
+##  Impact
 
 * Demonstrates ability to build **end-to-end ML pipelines**
 * Shows understanding of **model comparison & evaluation**
